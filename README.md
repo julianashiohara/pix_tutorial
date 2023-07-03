@@ -39,4 +39,4 @@ A chave Pix é configurada a partir de um dado do recebedor, que pode ser: celul
 * Clique em **solicitar portabilidade**
 * Valide a ação com a sua senha do cartão, aquela que você usa no Caixa Eletrônico (6 dígitos)
 * Para concluir a portablidade, é necessário confirmar sua solicitação no app da outra instituição em até 7 dias
-* Assim que a portabilidade for finalizada, você receberá uma notificação e já poderá fazer traansações 
+* Assim que a portabilidade for finalizada, você receberá uma notificação e já poderá fazer transações 
